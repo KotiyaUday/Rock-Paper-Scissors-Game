@@ -12,7 +12,6 @@ function random()
     {
         computerChoise=0;
     }
-    console.log(computerChoise);
     checking();
 }
 
